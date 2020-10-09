@@ -1394,7 +1394,6 @@ describe( 'passport-saml /', function() {
                 '<saml2:AttributeValue xmlns:xs="http://www.w3.org/2001/XMLSchema" ' +
                   'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ' +
                   'xsi:type="xs:string"/>' +
-                '</saml2:AttributeValue>' +
               '</saml2:Attribute>' +
             '</saml2:AttributeStatement>' +
           '</saml2:Assertion>' +
